@@ -1,10 +1,11 @@
-~~~
-title: Box of Issues
+~~~html
+title: Why should I write?
+subtitle: Here we are again.
+background: https://cdna.artstation.com/p/assets/images/images/015/601/246/large/stephen-cornu-ecrivain-final-x.jpg
 layout: post
-background: https://cdna.artstation.com/p/assets/images/images/008/555/002/large/antoine-collignon-bigger.jpg
-subtitle: A long time coming.
-artist: artstation.com/antoinecollignon
 ~~~
+
+
 
 
 
