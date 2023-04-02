@@ -1,7 +1,7 @@
 ---
 title: 信息收集
 layout: post
-background: ./img/1.jpg
+background: /img/1.jpg
 subtitle: 外网.
 artist: artstation.com/antoinecollignon
 ---
